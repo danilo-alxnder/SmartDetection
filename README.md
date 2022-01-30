@@ -1,1 +1,2 @@
-# SmartDetection
+# SmartDetection 🦿
+
