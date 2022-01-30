@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014185536926",
+    "firebase_url": "https://project-mod8.firebaseio.com",
+    "project_id": "project-mod8",
+    "storage_bucket": "project-mod8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014185536926:android:2ff7245148ae1b21bb3a8f",
+        "android_client_info": {
+          "package_name": "com.example.project_mod8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014185536926-194avinfu66i3t3q1mjf8vpg87eotm25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv53mPra2dyA4EIVw6DMyOP2-Hytt0UiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014185536926-194avinfu66i3t3q1mjf8vpg87eotm25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
