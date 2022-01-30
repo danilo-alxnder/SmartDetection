@@ -1,5 +1,5 @@
 # SmartDetection 🦿
-Welcome to the README of the Scuba chat application, a fully distributed multi-hop ad-hoc chat application that enables communication between 4 devices.
+Welcome to the README of the SmartDetection, a real-time positioning tracking system with sleeping recognition.
 
 ## Functionalities
 * Track user using GPS data and the Gyro information of a smarthphone. 
