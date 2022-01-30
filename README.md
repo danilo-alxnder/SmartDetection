@@ -12,10 +12,10 @@ Welcome to the README of the Scuba chat application, a fully distributed multi-h
 
 <img src="https://user-images.githubusercontent.com/70687643/151701399-aed6b81f-f011-415e-9341-45e84999b751.gif" align="left" width="175" />
 
-- To run ScubaChat you need an IDE. In this project, Visual Studio was used.  
-- In your project include all folders of this repository.  
-- To test main.cpp, acces to [netsys.ewi.utwente](http://netsys.ewi.utwente.nl/integrationproject) and choose a preferable frequency. 
-- In main.cpp make sure you include this number in `FREQUENCY`. 
+&nbsp;&nbsp;&nbsp; - To run ScubaChat you need an IDE. In this project, Visual Studio was used.  
+&nbsp;&nbsp;&nbsp; - In your project include all folders of this repository.  
+&nbsp;&nbsp;&nbsp; - To test main.cpp, acces to [netsys.ewi.utwente](http://netsys.ewi.utwente.nl/integrationproject) and choose a preferable frequency.  
+&nbsp;&nbsp;&nbsp; - In main.cpp make sure you include this number in `FREQUENCY`. 
 
 <br clear="left"/>
 
